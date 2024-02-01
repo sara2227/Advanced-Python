@@ -5,8 +5,11 @@ Learning Python at an advanced level involves a combination of structured learni
 Ensure a strong understanding of basic Python concepts, including data types, loops, conditional statements, functions, and object-oriented programming (OOP).
 ### Explore Advanced Topics:
 Data Structures: Study and implement advanced data structures such as sets, dictionaries, queues, stacks, heaps, and more.
+
 Generators and Iterators: Learn about generators and iterators for efficient memory usage and lazy evaluation.
+
 Decorators: Understand how decorators can be used to modify the behavior of functions.
+
 Functional Programming:
 Learn functional programming concepts in Python, including higher-order functions, lambda functions, and the map, filter, and reduce functions.
 Concurrency and Parallelism:
